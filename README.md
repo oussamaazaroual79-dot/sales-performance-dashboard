@@ -1,6 +1,6 @@
 # Sales Performance Dashboard – Excel
 
-![Dashboard](Sales_Dashboard.png)
+![Dashboard](Sales_Dashboard..png)
 
 ## Objective
 Track 12 months of sales performance (Oct 2025 – Sep 2026) on a single interactive page, with revenue compared against target and broken down by region, category and sales rep.
